@@ -57,5 +57,3 @@ i = 1;
 
 %% Usefull Wall_Impingement functions
 make_Video(strucinput); % Creates Videos and Images with Edge-Overlay
-
-%test

@@ -2,7 +2,7 @@ addpath([pwd '\VFunct\']); % Path for Functions of GET
 
 
 Current_path = ('E:'); % Harddrive
-Current_folder = ('Datens‰tze\Highspeed-Shadowgraphy'); % Folder on the Harddrive that has to be evaluated
+Current_folder = ('Datens√§tze\Highspeed-Shadowgraphy'); % Folder on the Harddrive that has to be evaluated
 Head_folder = ('Highspeed-Shadowgraphy'); % Part of the Current Folder, Main Folder of the Dataset
 targetdata=struct;
 targetdata(1).name='.tif';
@@ -57,3 +57,5 @@ i = 1;
 
 %% Usefull Wall_Impingement functions
 make_Video(strucinput); % Creates Videos and Images with Edge-Overlay
+
+%test

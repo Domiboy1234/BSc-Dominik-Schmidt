@@ -20,10 +20,6 @@ function [out1,out2,out3] = ginputRed(arg1)
 %       [x,y] = ginput(5);
 %
 %       [x, y, button] = ginput(1);
-%
-%   See also GTEXT, WAITFORBUTTONPRESS.
-
-%   Copyright 1984-2015 The MathWorks, Inc.
 
 out1 = []; out2 = []; out3 = []; y = [];
 
